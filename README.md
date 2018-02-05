@@ -10,7 +10,7 @@ I'm originally from Russia, but have been lived in the USA for 10 years. I love 
 * Have an accent
 * I don't look like Russian and a lot of people think that I'm Brazilian. Lol
 
-I really like work on cumputers and create new websites. Last year I took IMCP class certification and FEWD1. I really enjoy to create something new and work on photoshop. One of my favorite picture is me with city in background that I created in Photoshop. 
+I really like work on cumputers and create new websites. Last year I took IMCP class certification and FEWD1. I really enjoy to create something new and work on photoshop. One of my favorite picture is me with city in background that I created in Photoshop.  
 ![Elvira face](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAlmAAAAJGY1OWY3NmJkLWY0MDItNGZiNi04OWFmLWRlZTI1NWYwMTM5MQ.jpg)
 
 ## I want to learn to frond-end development because
