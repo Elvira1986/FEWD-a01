@@ -11,7 +11,7 @@ I'm originally from Russia, but have been lived in the USA for 10 years. I love 
 * I don't look like Russian and a lot of people think that I'm Brazilian. Lol
 
 I really like work on cumputers and create new websites. Last year I took IMCP class certification and FEWD1. I really enjoy to create something new and work on photoshop. One of my favorite picture is me with city in background that I created in Photoshop:  
-![Elvira face](https://www.instagram.com/p/BdpWNc4FPwe/?taken-by=webeldesign)
+![Elvira face](https://www.instagram.com/p/BdpWNc4FPwe/?taken-by=webeldesign)  
 
 ## I want to learn to frond-end development because
 1. I like to code
